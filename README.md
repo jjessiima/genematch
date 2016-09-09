@@ -1,5 +1,5 @@
 # genematch
-<img src="http://www.godandscience.org/images/dna-helix.gif"
+<img src="http://www.proprofs.com/quiz-school/manage/upldimg/dDgkNoqrUDGJ27.jpg"
 8	 alt="Snowplow logo" title="Snowplow" align="right" />
 Hi! We are a team consisting of two sophomore students, Cindy Huang and Jessie Ma. 
 We have decided to address to 
