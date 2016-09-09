@@ -1,5 +1,5 @@
 <h1> <pink> Genematch <pink> </h1>
-<img src="http://www.proprofs.com/quiz-school/manage/upldimg/dDgkNoqrUDGJ27.jpg"
+<img src="http://bestanimations.com/Science/Biology/DNA/dna-rna-double-helix-rotating-animation-17.gif"
 8	 alt="Snowplow logo" title="Snowplow" align="right" />
 Hi! We are a team consisting of two high school sophomore students, Cindy Huang and Jessie Ma. With scientists in ou
 We have decided to create a code to quickly find matches between genes and DNA quickly and efficiently (which takes from 5- 7 hours.)
