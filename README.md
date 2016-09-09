@@ -6,7 +6,6 @@ We have decided to create a code to quickly find matches between genes and DNA q
 
 
 
----
 
 ##About 
 [Watch video explaining DNA!] (https://www.youtube.com/watch?v=uXdzuz5Q-hs)
@@ -25,6 +24,6 @@ Installation is free, but when used credit is needed
 To report bugs or to contact us
 ma.j.jessie@gmail.com 
 
-
+---
 
 ###Liscense
