@@ -11,7 +11,7 @@ Many scientists have encountered the problem of taking hours of valuable time to
 #Our goal
 As a team, we have decided to make it our task to help scientists save time by making a code to quickly find the matching bar codes.
 
-
+#Installation
 Download file
 [Download the latest release !](https://github.com/)
 Follow instructions clearly on the program for program to run.
