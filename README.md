@@ -21,5 +21,6 @@ Follow instructions clearly on the program for program to run.
 Installation is free, but when used credit is needed
 
 
-###Ways to contact us
+###Contact
+To report bugs or to contact us
 ma.j.jessie@gmail.com 
