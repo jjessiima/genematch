@@ -24,3 +24,7 @@ Installation is free, but when used credit is needed
 ###Contact
 To report bugs or to contact us
 ma.j.jessie@gmail.com 
+
+
+
+###Liscense
