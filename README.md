@@ -1,4 +1,4 @@
-<h1> <pink> Genematch <pink> </h1>
+<h1> <center> Genematch </center> </h1>
 <img src="http://bestanimations.com/Science/Biology/DNA/dna-rna-double-helix-rotating-animation-17.gif"
 8	 height= 350 width= 220 alt="Gene logo" title="Genematch" align="right" />
 Hi! We are a team consisting of two high school sophomore students, **Cindy Huang** and **Jessie Ma**. With scientists in our...
@@ -21,7 +21,7 @@ Follow instructions clearly on the program for program to run.
 Installation is free, but when used credit is needed
 
 
-###Contact
+##Contact
 To report bugs or to contact us
 ma.j.jessie@gmail.com 
 
