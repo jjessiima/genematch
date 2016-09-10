@@ -10,14 +10,16 @@ We have decided to create a code to quickly find matches between genes and DNA q
 ##About 
 [Watch video explaining DNA!] (https://www.youtube.com/watch?v=uXdzuz5Q-hs)
 Many scientists have encountered the problem of taking hours of valuable time to process and find matching gene codes when uploading a file.
+
 ##Our goal
 As a team, we have decided to make it our task to help scientists save time by making a code to quickly find the matching bar codes.
-
+**How it works**
+Unlike other programs using arrays, our program utilizes hashmaps to directly 
 ##Installation
 
 [Download the latest release !](https://github.com/)
 Follow instructions clearly on the program for program to run.
-Installation is free, but when used credit is needed
+
 
 
 ##Contact
@@ -27,3 +29,5 @@ ma.j.jessie@gmail.com
 ---
 
 ###Liscense
+Copyright 2016 -, Inc.
+Installation is free, but when used credit is needed.
