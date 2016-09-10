@@ -13,8 +13,13 @@ As seen from the video, genetic codes have infinte possibilities. Scientists oft
 Many scientists have encountered the problem of taking hours of valuable time to process and find matching gene codes when uploading a file.
 
 **Our goal** 
+
+
 As a team, we have decided to make it our task to help scientists save time by making a code to quickly find the matching bar codes.
+
 **How it works**
+
+
 Users can upload genetics codes into the file, and the code will print out the amout of genetic matches and the frequency. 
 Unlike other programs using arrays, our program utilizes hashmaps to directly find matches.
 
