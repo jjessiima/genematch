@@ -23,6 +23,7 @@ As a team, we have decided to make it our task to help scientists save time by m
 Users can upload genetics codes into the file, and the code will print out the amout of genetic matches and the frequency. 
 Unlike other programs using arrays, our program utilizes hashmaps to directly find matches.
 
+
 ##Installation
 
 [Download the latest release !](https://github.com/)
@@ -38,4 +39,4 @@ ma.j.jessie@gmail.com
 
 ###Liscense
 Copyright 2016 -, Inc.
-Installation is free, but when used credit is needed.
+Installation is free, but when used, credit is needed.
