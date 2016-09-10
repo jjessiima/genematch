@@ -14,7 +14,9 @@ Many scientists have encountered the problem of taking hours of valuable time to
 ##Our goal
 As a team, we have decided to make it our task to help scientists save time by making a code to quickly find the matching bar codes.
 **How it works**
-Unlike other programs using arrays, our program utilizes hashmaps to directly 
+Users can upload genetics codes into the file, and the code will print out the amout of genetic matches and the frequency. 
+Unlike other programs using arrays, our program utilizes hashmaps to directly find matches.
+
 ##Installation
 
 [Download the latest release !](https://github.com/)
@@ -23,7 +25,7 @@ Follow instructions clearly on the program for program to run.
 
 
 ##Contact
-To report bugs or to contact us
+To report bugs or for questions contact-
 ma.j.jessie@gmail.com 
 
 ---
