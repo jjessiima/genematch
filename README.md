@@ -22,7 +22,13 @@ As a team, we have decided to make it our task to help scientists save time by m
 
 Users can upload genetics codes into the file, and the code will print out the amout of genetic matches and the frequency. 
 Unlike other programs using arrays, our program utilizes hashmaps to directly find matches.
-
+Such as :
+```bash
+$ sudo apt-get install ruby
+$ sudo apt-get install ruby-dev
+$ sudo apt-get install npm
+$ sudo apt-get install nodejs-legacy
+```
 
 ##Installation
 
@@ -40,3 +46,4 @@ ma.j.jessie@gmail.com
 ###Liscense
 Copyright 2016 -, Inc.
 Installation is free, but when used, credit is needed.
+JNU copyright rights are used.
