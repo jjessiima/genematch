@@ -9,7 +9,7 @@ We have decided to create a code to quickly find matches between genes and DNA q
 
 ##About 
 [Watch video explaining DNA!] (https://www.youtube.com/watch?v=uXdzuz5Q-hs)
-As seen from the video, genetic codes have infinte possibilities. Scientists often attempt to find matches between the DNA in which they experimented to find, to match with other genetic codes in order to complete their research.
+As seen from the video, genetic codes have infinte possibilities. All living things consist of genetic code. Scientists often attempt to find matches between the DNA in which they experimented to find and to match with other genetic codes in order to complete their research.
 Many scientists have encountered the problem of taking hours of valuable time to process and find matching gene codes when uploading a file.
 
 **Our goal** 
@@ -21,7 +21,7 @@ As a team, we have decided to make it our task to help scientists save time by m
 
 
 Users can upload genetics codes into the file, and the code will print out the amout of genetic matches and the frequency. 
-Unlike other programs using arrays, our program utilizes hashmaps to directly find matches.
+Unlike other programs using arrays that would take around 5-7 hours to run, our program utilizes hashmaps to directly find matches in seconds.
 Such as :
 ```bash
 $ sudo apt-get install ruby
