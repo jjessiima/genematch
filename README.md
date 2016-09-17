@@ -46,4 +46,4 @@ ma.j.jessie@gmail.com
 ###Liscense
 Copyright 2016 -, Inc.
 Installation is free, but when used, credit is needed.
-JNU copyright rights are used.
+GNU copyright rights are used.
