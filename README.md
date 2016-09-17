@@ -2,7 +2,7 @@
 <img src="http://bestanimations.com/Science/Biology/DNA/dna-rna-double-helix-rotating-animation-17.gif"
 8	 height= 350 width= 220 alt="Gene logo" title="Genematch" align="right" />
 Hi! We are a team consisting of two high school sophomore students, **Cindy Huang** and **Jessie Ma**. 
-We have decided to create a code to quickly find matches between genes and DNA quickly and efficiently (which takes from 5- 7 hours.)
+We have decided to create a code to quickly find matches between genes and DNA quickly and efficiently.
 
 
 
