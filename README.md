@@ -13,7 +13,7 @@ As seen from the video, genetic codes have infinte possibilities. All living thi
 Many scientists have encountered the problem of taking hours of valuable time to process and find matching gene codes when uploading a file.
 
 **Our goal** 
-
++
 
 As a team, we have decided to make it our task to help scientists save time by making a code to quickly find the matching bar codes.
 
