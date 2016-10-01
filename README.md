@@ -32,7 +32,7 @@ Unlike other programs using arrays that would take around 5-7 hours to run, our 
 
 [Download the latest release !](https://github.com/jjessiima/genematch/blob/master/test.jar)
 Follow instructions clearly on the program for program to run.
-
+![ScreenShot](https://raw.github.com/{jjessiima}/{repository}/{branch}/{path})
 
 
 ##Contact
