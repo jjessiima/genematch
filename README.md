@@ -1,7 +1,8 @@
 <h1> <center> Genematch </center> </h1>
 <img src="http://bestanimations.com/Science/Biology/DNA/dna-rna-double-helix-rotating-animation-17.gif"
 8	 height= 350 width= 220 alt="Gene logo" title="Genematch" align="right" />
-Hi! We are a team consisting of two high school sophomore students, **Cindy Huang** and **Jessie Ma**. Cindy attends Thomas Wootton Hgh School, and Jessie attends Winston Churchill High School. United by their interest in biological scientist, they have decided to collaborate for a summer project to quickly find matches between genes and DNA quickly and efficiently.
+Hi! We are a team consisting of two high school sophomore students, **Cindy Huang** and **Jessie Ma**. Cindy attends Thomas Wootton High School, and Jessie attends Winston Churchill High School. United by their interest in biological sciences, they have decided to collaborate for a summer project to faciitate scientits jobs when they try to find matches between genes and DNA quickly by creating a code to  quickly find the matching bar codes.
+
 
 
 
@@ -10,12 +11,6 @@ Hi! We are a team consisting of two high school sophomore students, **Cindy Huan
 [Watch video explaining DNA!] (https://www.youtube.com/watch?v=uXdzuz5Q-hs)
 As seen from the video, genetic codes have infinte possibilities. Scientists often attempt to find matches between the DNA in which they experimented to find and other genetic codes in a database in order to complete their research.
 Many scientists have encountered the problem of taking hours of valuable time to process and find matching gene codes when uploading a file.
-
-**Our goal** 
-
-
-As a team, we have decided to make it our task to help scientists save time by creating a code to quickly find the matching bar codes.
-
 **How it works**
 
 
