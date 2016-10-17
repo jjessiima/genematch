@@ -13,6 +13,7 @@ As seen from the video, genetic codes have infinte possibilities. Scientists oft
 
 
 **Why this is important** 
+
 When experimenting with DNA, scientists might discover a mutation. Sometimes, these mutation in DNA  could be a cancer cell.However, because there are so many DNA tested that scientist worked with that it could take hours, and in many cases days, to find what the DNA sequence matches with in the total sequence database. Our program will cut down this time and find matches quickly.
 Many scientists have encountered the problem of taking hours of valuable time to process and find matching gene codes when uploading a file.
 **How it works**
