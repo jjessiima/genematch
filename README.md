@@ -1,7 +1,7 @@
 <h1> <center> Genematch </center> </h1>
 <img src="http://bestanimations.com/Science/Biology/DNA/dna-rna-double-helix-rotating-animation-17.gif"
 8	 height= 350 width= 220 alt="Gene logo" title="Genematch" align="right" />
-Hi! We are a team consisting of two high school sophomore students, **Cindy Huang** and **Jessie Ma**. Cindy attends Thomas Wootton High School, and Jessie attends Winston Churchill High School. United by our interest in biological sciences, we have decided to collaborate for a summer project to faciitate scientists jobs that arose. We have decided to create a code that finds matches between barcodes and gene codes quickly and efficiently.
+Hi! We are a team consisting of two high school sophomore students, **Cindy Huang** and **Jessie Ma**. Cindy attends Thomas Wootton High School, and Jessie attends Winston Churchill High School. United by our interest in biological sciences, we have decided to collaborate for a summer project to faciitate scientists jobs that arose. Our goal was to create a code that finds matches between barcodes and gene codes quickly and efficiently.
 
 
 
